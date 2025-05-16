@@ -1,0 +1,16 @@
+# Python
+env/
+__pycache__/
+*.py[cod]
+
+# Великі бібліотеки
+*.pyd
+*.dll
+*.so
+*.egg
+
+# Дані та кеш
+*.pkl
+*.jpg
+*.png
+user_images/
